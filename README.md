@@ -23,3 +23,14 @@ You can earn residual income from 20BIDS in a couple of ways:
 
 Register now and stand a chance of receiving instant 1GB Data subscription once your account is  activated.
 
+### Installation 
+
+Download full laravel project zip from release below 
+
+Download full project <https://github.com/omasy/20bids/releases/tag/vs_0_3_1>
+
+1. Unzip the archive to access the 20bids folder
+2. Import the sale file through phpmyadmin
+3. Upload project folder to your wamp server roots folder (www) to test run website
+
+Incredible codes and business logic at your disposal enjoy...
