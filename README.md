@@ -2,9 +2,6 @@
 
 20BIDS is a platform that review products online from market places like ebay, amazon, etsy, alibaba, takealot, jumia, etc. We've partner with these eCommerce companies to bring more value to various categories of product, i.e brands of essential products the ones we deem fit as evergreen product which are always in demand.
 
-Our aim is to provide consumers all the information's they need to know about their favorite essential products ranging from gadgets, electronics, computing essentials to fashion, health & care, etc. 
-Our review platform works on shared contribution of user feedback and activities in which we offer to pay you for your regular online activities in promoting and creating constant awareness for our listed products and by which your feedback is always a part of the product ratings. To say thank you we've integrated a system you can make residual income for been part of the process.
-
 Register now and stand a chance of receiving instant 1GB Data subscription once your account is  activated.ownload full project code here <https://github.com/omasy/20bids/releases/tag/vs_0_3_1>
 
 ### 20bids.com About from 2019 (Active period)
