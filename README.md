@@ -2,7 +2,7 @@
 
 20BIDS is a platform that review products online from market places like ebay, amazon, etsy, alibaba, takealot, jumia, etc. We've partner with these eCommerce companies to bring more value to various categories of product, i.e brands of essential products the ones we deem fit as evergreen product which are always in demand.
 
-Register now and stand a chance of receiving instant 1GB Data subscription once your account is  activated.ownload full project code here <https://github.com/omasy/20bids/releases/tag/vs_0_3_1>
+Download full project code here <https://github.com/omasy/20bids/releases/tag/vs_0_3_1>
 
 ### 20bids.com About from 2019 (Active period)
 
